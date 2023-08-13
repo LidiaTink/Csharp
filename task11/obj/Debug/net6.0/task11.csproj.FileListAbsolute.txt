@@ -1,0 +1,15 @@
+C:\Users\cola2\Desktop\С#\task11\bin\Debug\net6.0\task11.exe
+C:\Users\cola2\Desktop\С#\task11\bin\Debug\net6.0\task11.deps.json
+C:\Users\cola2\Desktop\С#\task11\bin\Debug\net6.0\task11.runtimeconfig.json
+C:\Users\cola2\Desktop\С#\task11\bin\Debug\net6.0\task11.dll
+C:\Users\cola2\Desktop\С#\task11\bin\Debug\net6.0\task11.pdb
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.csproj.AssemblyReference.cache
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.AssemblyInfoInputs.cache
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.AssemblyInfo.cs
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.csproj.CoreCompileInputs.cache
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.dll
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\refint\task11.dll
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.pdb
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\task11.genruntimeconfig.cache
+C:\Users\cola2\Desktop\С#\task11\obj\Debug\net6.0\ref\task11.dll
