@@ -12,6 +12,6 @@ if (numberN < 0)
 }
 for (int i = 1; i <= numberN; i++)
 {
-    result = Math.Pow(i, 2);
+    result = Math.Pow(i, 2); 
     Console.WriteLine(result);
 }
