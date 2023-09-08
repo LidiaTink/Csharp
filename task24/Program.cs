@@ -16,4 +16,4 @@ int SumOfNumber(int number)
     return sum;
 }
 
-Console.WriteLine($"сумма цифр в числе {userNumber} равна {SumOfNumber(userNumber)}");
+Console.WriteLine($"Сумма чисел от 1 до {userNumber} равна {SumOfNumber(userNumber)}");
