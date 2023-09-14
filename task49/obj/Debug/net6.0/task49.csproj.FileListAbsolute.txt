@@ -1,0 +1,15 @@
+C:\Users\cola2\Desktop\С#\task49\bin\Debug\net6.0\task49.exe
+C:\Users\cola2\Desktop\С#\task49\bin\Debug\net6.0\task49.deps.json
+C:\Users\cola2\Desktop\С#\task49\bin\Debug\net6.0\task49.runtimeconfig.json
+C:\Users\cola2\Desktop\С#\task49\bin\Debug\net6.0\task49.dll
+C:\Users\cola2\Desktop\С#\task49\bin\Debug\net6.0\task49.pdb
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.csproj.AssemblyReference.cache
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.AssemblyInfoInputs.cache
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.AssemblyInfo.cs
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.csproj.CoreCompileInputs.cache
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.dll
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\refint\task49.dll
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.pdb
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\task49.genruntimeconfig.cache
+C:\Users\cola2\Desktop\С#\task49\obj\Debug\net6.0\ref\task49.dll
