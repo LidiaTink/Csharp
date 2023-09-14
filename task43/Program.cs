@@ -31,3 +31,58 @@ double x = (b2 - b1) / (k1 - k2);
 double y = k1 * x + b1;
 
 Console.WriteLine($"Точка пересечения прямых находится в координатах: x={x}; y={y}");
+
+
+
+
+/*
+2 способ решения
+
+Console.Write("Введеди координату b1: ");
+int b1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введеди координату k1: ");
+int k1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введеди координату b2: ");
+int b2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введеди координату k2: ");
+int k2 = Convert.ToInt32(Console.ReadLine());
+float x = CalculationX(b1, b2, k1, k2);
+float y = CalculationY(x, b1, k1);
+
+if (CheckCoords(b1, b2, k1, k2))
+{
+Console.WriteLine($"({x}; {y})");
+}
+
+float CalculationX(int b1, int b2, int k1, int k2)
+{
+float x = (float)(b2 - b1) / (k1 - k2);
+
+return x;
+}
+float CalculationY(float x, int b1, int k1)
+{
+float y = (float)(k1 * x + b1);
+
+return y;
+}
+bool CheckCoords(int b1, int b2, int k1, int k2)
+{
+if (k1 == k2)
+{
+if (b1 == b2)
+{
+Console.WriteLine("прямые совпадают");
+return false;
+}
+else
+{
+Console.WriteLine("прямые параллельны");
+return false;
+}
+}
+
+return true;
+}
+
+*/
