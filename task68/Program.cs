@@ -8,11 +8,11 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите неотрицательное число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-AkkermanFunction(m, n);
+AkkermanFunction(m,n);
 
 void AkkermanFunction(int m, int n)
 {
-    Console.Write(Akkerman(m, n));
+    Console.Write(Akkerman(m, n)); 
 }
 
 
