@@ -16,11 +16,14 @@ int[] userArray = GetRandomArray();
 void PrintArray(int[] arrayToPrint)
 {
     System.Console.Write("[");
-    for (int i = 0; i < arrayToPrint.Length; i++)
+    for (int i = 0; i < arrayToPrint.Length - 1; i++)
     {
         System.Console.Write($"{arrayToPrint[i]} ");
     }
+    for (int i = arrayToPrint.Length - 1; i < arrayToPrint.Length; i++)
+    {
+        System.Console.Write($"{arrayToPrint[i]}");
+    }
     System.Console.Write("]");
 }
-
 PrintArray(userArray);
